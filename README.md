@@ -100,4 +100,4 @@ Further enhancements for this project could include:
 ## License
 This project is open-source and available under the MIT License.
 
-## Sameer Zakzak
+**Sameer Zakzak**
