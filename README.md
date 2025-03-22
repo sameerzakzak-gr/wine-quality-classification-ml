@@ -60,7 +60,7 @@ Install the necessary packages manually:
 ## Usage
 
 To run the analysis:
-1. ** Launch Jupyter Notebook:**
+1. **Launch Jupyter Notebook:**
     ```bash
     jupyter notebook
 
@@ -74,21 +74,16 @@ Run each cell sequentially to load data, perform exploratory data analysis (EDA)
 
 ## Methodology
 The analysis is structured into the following steps:
-
-**Data Loading:**
+- **Data Loading:**
 Reading the dataset using Pandas and previewing the data to understand its structure.
-
-**Exploratory Data Analysis (EDA):**
+- **Exploratory Data Analysis (EDA):**
 Generating statistical summaries and visualizations to identify patterns, outliers, and relationships within the data.
-
-**Data Preprocessing:**
+- **Data Preprocessing:**
 Cleaning the data, handling missing values, scaling features, and preparing the dataset for model training.
-
-**Model Training:**
+- **Model Training:**
 Implementing several machine learning algorithms (e.g., Logistic Regression, Decision Trees, Random Forests) to predict wine quality.
 The models are trained and validated to compare their performance.
-
-**Model Evaluation:**
+- **Model Evaluation:**
 Assessing the performance of each model using metrics such as accuracy, precision, recall, and F1 score.
 
 ## Results
