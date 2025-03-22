@@ -10,7 +10,6 @@ A machine learning project for predicting red wine quality based on physicochemi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Methodology](#methodology)
-- [Data Visualization](#data-visualization)
 - [Results](#results)
 - [Future Work](#future-work)
 - [License](#license)
@@ -95,22 +94,17 @@ Assessing the performance of each model using metrics such as accuracy, precisio
 ## Results
 The notebook presents a comprehensive evaluation of different models. Key findings include:
 
-Comparative performance metrics for each model.
-
-Insights on how various physicochemical properties impact wine quality.
-
-Visualizations that demonstrate model accuracy and potential areas for improvement.
+- Comparative performance metrics for each model.
+- Insights on how various physicochemical properties impact wine quality.
+- Visualizations that demonstrate model accuracy and potential areas for improvement.
 
 ## Future Work
 Further enhancements for this project could include:
 
-Hyperparameter tuning through cross-validation to optimize model performance.
-
-Exploring additional machine learning or ensemble methods.
-
-Incorporating more advanced feature engineering techniques.
-
-Experimenting with deep learning approaches for enhanced predictive performance.
+- Hyperparameter tuning through cross-validation to optimize model performance.
+- Exploring additional machine learning or ensemble methods.
+- Incorporating more advanced feature engineering techniques.
+- Experimenting with deep learning approaches for enhanced predictive performance.
 
 ## License
 This project is open-source and available under the MIT License.
