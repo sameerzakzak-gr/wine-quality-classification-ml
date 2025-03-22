@@ -45,15 +45,13 @@ The dataset used in this project is `winequality-red.csv`. It contains the follo
 Follow these steps to set up the project locally:
 
 1. **Clone the Repository:**
-
     ```bash
-    git clone https://github.com/your-username/wine-quality-classification.git
-    cd wine-quality-classification
+    git clone https://github.com/sameerzakzak-gr/wine-quality-classification-ml.git
+    cd wine-quality-classification-ml
 
 2. **Install the Required Packages:**
 
 Install the necessary packages manually:
-
     ```bash
     pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
