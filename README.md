@@ -50,10 +50,7 @@ Follow these steps to set up the project locally:
     cd wine-quality-classification-ml
 
 2. **Install the Required Packages:**
-
-Install the necessary packages manually:
     ```bash
-    
     pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
 ## Usage
