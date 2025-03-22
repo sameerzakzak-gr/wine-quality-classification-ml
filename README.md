@@ -53,6 +53,7 @@ Follow these steps to set up the project locally:
 
 Install the necessary packages manually:
     ```bash
+    
     pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
 ## Usage
